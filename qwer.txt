@@ -8,11 +8,3 @@
 
 версия4 текст1
 версия4 текст2
-
------------для удаления-------------
-
-ver_forbranch1 text1
-ver_forbranch1 text2
-
-ver_forbranch2 text1
-ver_forbranch2 text2
