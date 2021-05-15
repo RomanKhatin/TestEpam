@@ -10,3 +10,6 @@
 версия4 текст2
 
 -----------для удаления-------------
+
+ver_forbranch1 text1
+ver_forbranch1 text2
